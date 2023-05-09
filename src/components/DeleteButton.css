@@ -1,0 +1,10 @@
+.ahoj {
+
+    color: white;
+    background-color: rgb(116, 6, 6);
+    padding: 3px 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    cursor: pointer;
+}
